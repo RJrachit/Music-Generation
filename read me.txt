@@ -1,0 +1,9 @@
+Submitted by :-
+Rachit Jaluthra 2k18/CO/264
+Rahul Kumar 2k18/CO/271
+
+Steps :
+1)Preprocessing dataset and creating sequential data for LSTM
+2)Create Model and layers
+3)Generating notes and chords
+4)Creating midi file 
